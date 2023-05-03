@@ -1,6 +1,6 @@
 # LM Training Strategy
 Here we summarize and classify papers into **Pretraining&Fine-tuning** and **Prompting** two different categories.
-\[[paper]()\]\[[code]()\]
+
 
 ## Pretaining & Fine-Tuning
 ### Pretrain w/o Fine-tune
